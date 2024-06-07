@@ -8,12 +8,12 @@
 }
 
 body {
-    background-image: url("/assets/bg-header.png");
+    background-image: url("./bg-body.png");
     background-color: #095bc9;
 }
 
 .container {    
-    background-image: url("/assets/bg-body.png");
+    background-image: url("./bg-header.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
