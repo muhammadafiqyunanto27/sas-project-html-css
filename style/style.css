@@ -149,6 +149,7 @@ body {
 
   .content-3 .wrapp-bonus .bonus #btn-bonus {
     padding: 10px 30px;
+    width: 95%;
     background-color: #fac120;
     border: none;
     color: white;
